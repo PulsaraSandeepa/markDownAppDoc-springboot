@@ -1,0 +1,10 @@
+
+server:
+  port: 8084
+
+spring:
+  data:
+    mongodb:
+      host: mongodb://localhost:27017
+      database: doc-data
+
